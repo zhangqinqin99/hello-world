@@ -8,6 +8,13 @@
 git commit -m 'add a new file' newfilename
 git push
 
+5 rm filename
+git rm filename //git status
+
+git commit -m 'delete file'
+git push
+
+
 
  
  
