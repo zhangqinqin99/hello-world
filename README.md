@@ -1,4 +1,4 @@
-# hello-world
+## readme  
 1 in localhost in dir /home/zhangqinqin/tmp/
  git clone git@github.com:zhangqinqin99/hello-world.git
 2 cd hello-world
